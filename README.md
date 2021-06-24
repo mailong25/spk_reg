@@ -1,6 +1,4 @@
-# spk_reg
-Speaker Recognition
-
+# Speaker Recognition
 
 ![alt text](https://github.com/mailong25/spk_reg/blob/main/veri.png?raw=true)
 
