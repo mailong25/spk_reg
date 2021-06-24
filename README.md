@@ -34,15 +34,17 @@ verifier.verify('test/1011_0.wav','1001') -> False
 
 ### Performance
 Error rate: 3%
-\\
+
 Threshold = 0.7
  + False Positive Rate: 3%
  + True Positive Rate: 97%
-\\
+
+
 Threshold = 0.74
  + False Positive Rate: 1%
  + True Positive Rate: 90%
-\\
+
+
 Threshold = 0.68
  + False Positive Rate: 5%
  + True Positive Rate: 98%
